@@ -1,0 +1,14 @@
+1.1.2
+    o add simple examples
+    o document return values
+1.1.1
+    o improved DESCRIPTION file
+    o move to jsonlite for JSON parsing and writing
+1.0.0
+    o preparation for CRAN submission
+0.0.3
+    o slightly improved test
+0.0-2
+	o align on novel functionality of the RJSONIO package (nullValue support)
+0.0-1
+	o first public version of RSBJson

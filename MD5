@@ -1,0 +1,9 @@
+1701deec2fa68d13e26491f6c10c525e *DESCRIPTION
+396a0559064e36a480e2b732a491e427 *NAMESPACE
+7853437658242e9546462d53194672e8 *R/RSBJsonService.R
+1054bd0ae160847341192d924fc74783 *R/allPossibleCombinations.R
+f0d0cffdb1bab16ab6ff1c5a65353fd7 *inst/NEWS
+afd6567b6d199d6956568d530aecf170 *inst/examples/example.json
+f0bf6f92ebaadca6596dff476dcfebe0 *man/RSBJsonService.Rd
+de39c0816938aef5e16bc85528e2c4e5 *man/allPossibleCombinations.Rd
+554492fa9c64896ab0d51d03093aacc8 *tests/test.RSBJsonService.R
